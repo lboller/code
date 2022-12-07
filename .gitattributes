@@ -7,3 +7,7 @@ code.tar.gzac filter=lfs diff=lfs merge=lfs -text
 vscode-server-linux-x64.tar.gz filter=lfs diff=lfs merge=lfs -text
 server.tar.gzaa filter=lfs diff=lfs merge=lfs -text
 server.tar.gzab filter=lfs diff=lfs merge=lfs -text
+quarto-1.2.269-linux-rhel7-amd64.tar.gza filter=lfs diff=lfs merge=lfs -text
+quarto-1.2.269-linux-rhel7-amd64.tar.gzb filter=lfs diff=lfs merge=lfs -text
+quarto-1.2.269-linux-rhel7-amd64.tar.gzaa filter=lfs diff=lfs merge=lfs -text
+quarto-1.2.269-linux-rhel7-amd64.tar.gzab filter=lfs diff=lfs merge=lfs -text
