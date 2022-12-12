@@ -11,3 +11,5 @@ quarto-1.2.269-linux-rhel7-amd64.tar.gza filter=lfs diff=lfs merge=lfs -text
 quarto-1.2.269-linux-rhel7-amd64.tar.gzb filter=lfs diff=lfs merge=lfs -text
 quarto-1.2.269-linux-rhel7-amd64.tar.gzaa filter=lfs diff=lfs merge=lfs -text
 quarto-1.2.269-linux-rhel7-amd64.tar.gzab filter=lfs diff=lfs merge=lfs -text
+ms-python.python-2022.21.13431008.vsix filter=lfs diff=lfs merge=lfs -text
+ms-toolsai.jupyter-2023.1.1003441034.vsix filter=lfs diff=lfs merge=lfs -text
