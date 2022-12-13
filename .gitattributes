@@ -20,3 +20,4 @@ py.vab filter=lfs diff=lfs merge=lfs -text
 ju.vab filter=lfs diff=lfs merge=lfs -text
 ju.vaa filter=lfs diff=lfs merge=lfs -text
 radian.tar.gz filter=lfs diff=lfs merge=lfs -text
+radian.zip filter=lfs diff=lfs merge=lfs -text
