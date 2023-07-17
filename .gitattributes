@@ -24,3 +24,9 @@ radian.zip filter=lfs diff=lfs merge=lfs -text
 radian.tar.gzaa filter=lfs diff=lfs merge=lfs -text
 radian.tar.gzab filter=lfs diff=lfs merge=lfs -text
 mc.parquet filter=lfs diff=lfs merge=lfs -text
+serveraa filter=lfs diff=lfs merge=lfs -text
+serverab filter=lfs diff=lfs merge=lfs -text
+serverac filter=lfs diff=lfs merge=lfs -text
+serverad filter=lfs diff=lfs merge=lfs -text
+serverae filter=lfs diff=lfs merge=lfs -text
+serveraf filter=lfs diff=lfs merge=lfs -text
